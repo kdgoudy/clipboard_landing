@@ -62,4 +62,25 @@ button {
 
 .snip-head {
     text-align: center;
+    padding-bottom: 65px;
+}
+
+.computer {
+    float: left;
+    padding-right: 130px;
+}
+
+.snip-content {
+    padding-top: 50px;
+    margin-bottom: 250px;
+}
+
+.search,
+.sync,
+.history {
+    padding-bottom: 60px;
+}
+
+.access {
+    text-align: center;
 }
