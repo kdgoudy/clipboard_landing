@@ -134,6 +134,9 @@ button {
     margin-right: 75px;
 }
 
+.attribution {
+    text-align: center;
+}
 .bottom ul {
     list-style-type: none;
     column-count: 3;
