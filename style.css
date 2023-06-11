@@ -122,22 +122,20 @@ button {
 }
 
 .bottom {
-    background-color: #c7d1d6;
+    background-color: #e7edf0;
     padding-top: 20px;
     padding-bottom: 20px;
+    column-count: 5;
 }
 
 .bottom-img {
     height: 50px;
-    float: left;
     margin-left: 75px;
     margin-right: 75px;
 }
 
-.attribution {
-    text-align: center;
-}
 .bottom ul {
     list-style-type: none;
-    column-count: 3;
+    display: grid;
+    width: 70%;
 }
