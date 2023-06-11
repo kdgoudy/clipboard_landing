@@ -120,3 +120,21 @@ button {
     text-align: center;
     padding-bottom: 50px;
 }
+
+.bottom {
+    background-color: #c7d1d6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bottom-img {
+    height: 50px;
+    float: left;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.bottom ul {
+    list-style-type: none;
+    column-count: 3;
+}
